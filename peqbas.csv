@@ -1,25 +1,49 @@
-dt,status,projects
-2019,blocked,
-2019,on_hold,
-2019,in_progress,
-2019,completed,12
-2020_q1,blocked,
-2020_q1,on_hold,
-2020_q1,in_progress,
-2020_q1,completed,2
-2020_q2,blocked,3
-2020_q2,on_hold,2
-2020_q2,in_progress,2
-2020_q2,completed,5
-2020_q3,blocked,13
-2020_q3,on_hold,9
-2020_q3,in_progress,35
-2020_q3,completed,7
-2020_q4,blocked,11
-2020_q4,on_hold,14
-2020_q4,in_progress,40
-2020_q4,completed,4
-2021,blocked,
-2021,on_hold,6
-2021,in_progress,4
-2021,completed,
+week,dt,status,projects
+Week 33,2019,blocked,
+Week 33,2019,on_hold,
+Week 33,2019,in_progress,
+Week 33,2019,completed,12
+Week 33,2020_q1,blocked,
+Week 33,2020_q1,on_hold,
+Week 33,2020_q1,in_progress,
+Week 33,2020_q1,completed,2
+Week 33,2020_q2,blocked,3
+Week 33,2020_q2,on_hold,2
+Week 33,2020_q2,in_progress,2
+Week 33,2020_q2,completed,5
+Week 33,2020_q3,blocked,13
+Week 33,2020_q3,on_hold,9
+Week 33,2020_q3,in_progress,35
+Week 33,2020_q3,completed,7
+Week 33,2020_q4,blocked,11
+Week 33,2020_q4,on_hold,14
+Week 33,2020_q4,in_progress,40
+Week 33,2020_q4,completed,4
+Week 33,2021,blocked,
+Week 33,2021,on_hold,6
+Week 33,2021,in_progress,4
+Week 33,2021,completed,
+Week 34,2019,blocked,1
+Week 34,2019,on_hold,1
+Week 34,2019,in_progress,1
+Week 34,2019,completed,13
+Week 34,2020_q1,blocked,1
+Week 34,2020_q1,on_hold,1
+Week 34,2020_q1,in_progress,1
+Week 34,2020_q1,completed,3
+Week 34,2020_q2,blocked,4
+Week 34,2020_q2,on_hold,3
+Week 34,2020_q2,in_progress,3
+Week 34,2020_q2,completed,6
+Week 34,2020_q3,blocked,14
+Week 34,2020_q3,on_hold,10
+Week 34,2020_q3,in_progress,36
+Week 34,2020_q3,completed,8
+Week 34,2020_q4,blocked,12
+Week 34,2020_q4,on_hold,15
+Week 34,2020_q4,in_progress,41
+Week 34,2020_q4,completed,5
+Week 34,2021,blocked,1
+Week 34,2021,on_hold,7
+Week 34,2021,in_progress,5
+Week 34,2021,completed,1
