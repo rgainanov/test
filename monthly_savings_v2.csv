@@ -1,0 +1,5 @@
+savings_month,20-Jan,20-Feb,20-Mar,20-Apr,20-May,20-Jun,20-Jul,20-Aug,20-Sep,20-Oct,20-Nov,20-Dec
+monthly_actual-trends,0.1,0.2,0.3,0.4,0.5,0.6,0.7,0.8,0.9,1,1.1,1.2
+monthly_op2,0.05,0.1,0.15,0.2,0.25,0.3,0.35,0.4,0.45,0.5,0.55,0.6
+cumulative_actuals-trend,0.5,1,1.5,2,2.5,3,3.5,4,4.5,5,5.5,6
+cumulative OP2,1,1.5,2,2.5,3,3.5,4,4.5,5,5.5,6,6.5
