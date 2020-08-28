@@ -1,0 +1,10 @@
+Phase/Team,Team_1,Team_2,Team_3,Team_4,Team_5,Team_6,Team_7,TOTAL
+Scoping,4,5,2,3,3,4,3,24
+Design,2,3,5,2,2,5,2,21
+Test,5,4,3,2,2,2,5,23
+Pilot,1,2,1,4,5,1,3,17
+Roll-out,5,4,3,3,2,3,4,24
+Completed,4,3,3,1,2,5,4,22
+Cancelled,1,4,1,4,5,3,3,21
+Not Started,4,5,4,3,3,2,1,22
+TOTAL,26,30,22,22,24,25,25,174
